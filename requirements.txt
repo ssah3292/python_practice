@@ -1,0 +1,12 @@
+pyqtwebengine
+pyqt5
+bandit
+black
+flake8
+mypy
+pydocstyle
+pylint
+
+numpy
+panda
+Flask
